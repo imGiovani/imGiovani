@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/cplusplus-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C + +"/>
+  <img src="https://img.shields.io/badge/cplusplus-00599C?style=for-the-badge&logo=c++&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="GoLang"/>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJIdea"/>
@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/giovani-oliveira-72698b33a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
+  <a href="www.linkedin.com/in/giovani-oliveira-72698b33a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="ra133166@uem.br">
