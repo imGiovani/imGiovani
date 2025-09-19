@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/cplusplus-00599C?style=for-the-badge&logo=c++&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c++&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="GoLang"/>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJIdea"/>
