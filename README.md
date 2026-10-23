@@ -1,43 +1,56 @@
 <p align="center">
-  
-</p>
-
-<h1 align="center">Hey, I'm Giovani 👋</h1>
-
-<p align="center">
-  A Software Engineer driven by solving complex problems through well-designed and maintainable code. I believe that a deep understanding of requirements analysis and architectural patterns is the foundation for any successful project. My technical expertise spans Python, Go, Java, and C++, with a particular love for elegant SQL.
-
-  -> Currently looking for a Full-Stack/Back-End Developer role
-  
-  -> Open to new opportunities and exciting challenges in software development.
-  
-  -> Feel free to reach out to me for collaboration or to discuss tech!
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1b2f4b&height=120&section=header" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="GoLang"/>
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJIdea"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=600&size=28&duration=3500&pause=800&color=2F6F9F&center=true&vCenter=true&width=700&lines=Hi,+I'm+Giovani+Oliveira+%F0%9F%91%8B;Junior+Data+Analyst+%7C+Data+Engineering;Python+%E2%80%A2+SQL+%E2%80%A2+Machine+Learning;Computer+Science+%40+UEM+(Dec+2026)" alt="Typing SVG"/>
 </p>
 
-<p align="center">
-  <a href="www.linkedin.com/in/giovani-oliveira-72698b33a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="ra133166@uem.br">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
+## About me
 
----
+- 🎓 Computer Science student at the State University of Maringá (UEM), graduating in December 2026
+- 📊 Looking for a **junior role in data**: data analysis, data engineering or data science
+- 🔬 Over a year of research on recommender systems (CNPq research grant and final thesis): Python pipelines over public datasets of up to 26 million records, model training and evaluation
+- 🗄️ Comfortable with SQL and relational database design
+- 🌎 Based in Maringá, PR, Brazil · open to relocation and remote work · fluent in English
+
+## Featured projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [Movie recommendation with GNNs + SASRec](https://github.com/imGiovani/NOME-DO-REPOSITORIO) | Final thesis: cleans 3 public movie datasets (26M → 10M interactions), trains 32 model configurations and compares them with HR@10, NDCG@10 and coverage | Python, Pandas, PyTorch, PyTorch Geometric, Optuna |
+| [Movie catalog database](https://github.com/imGiovani/NOME-DO-REPOSITORIO) | Relational model (ER/relational) and MySQL implementation with SQL queries using joins, aggregations and subqueries | MySQL, SQL |
+| [Image classification](https://github.com/imGiovani/NOME-DO-REPOSITORIO) | Transfer learning with MobileNetV2, 75.89% accuracy | Python, TensorFlow |
+
+## Tech stack
+
+**Languages**<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+
+**Data & Machine Learning**<br>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Optuna-2F6F9F?style=for-the-badge"/>
+
+**Databases & Tools**<br>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+
+## Contact
+
+<a href="https://www.linkedin.com/in/giovani-oliveira-oficial/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:giovanioliveira.uem@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imGiovani&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imGiovani&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=imGiovani&style=flat-square&color=blueviolet" alt="Visit Counter"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1b2f4b&height=120&section=footer" width="100%"/>
 </p>
